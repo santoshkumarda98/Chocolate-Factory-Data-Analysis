@@ -75,4 +75,7 @@ Structuring and documenting analytics projects professionally
 Santosh Kumar Pilla
 Aspiring Data Analyst
 📍 Hyderabad, India
+### 📸 Power BI Dashboard Preview
+
+![Dashboard Overview](screenshots/Dashboard overview)
 
